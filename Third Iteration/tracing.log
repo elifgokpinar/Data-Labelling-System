@@ -1,0 +1,674 @@
+Oca 02, 2021 6:25:24 PM Dataset readDataset
+INFO: Input file is read succesfully.
+
+Oca 02, 2021 6:25:24 PM Dataset readDataset
+INFO: Dataset id: 2 is created
+Oca 02, 2021 6:25:24 PM Dataset readDataset
+INFO: Dataset name: Multilabel Topic Classification Dataset is created
+Oca 02, 2021 6:25:24 PM Dataset readDataset
+INFO: maximum number of labels per instance: 10 is created
+
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Completeness percentage is calculated : 91.66666666666666
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Unique instance for each label is calculated
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Number of user is calculated : 3
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness percentage is calculated 
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness consistency is calculated 
+Oca 02, 2021 6:25:30 PM Print printDatasetMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 1 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 2 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Total number of Instancee is calculated: 19
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Number of unique instance is calculated: 16
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Average time is calculated : 994189.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 3 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 4 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Total number of Instancee is calculated: 20
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Number of unique instance is calculated: 14
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Consistency percentage is calculated: 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Average time is calculated : 1120755.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 5 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Total number of Instancee is calculated: 24
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Number of unique instance is calculated: 19
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Average time is calculated : 837100.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 6 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Total number of Instancee is calculated: 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Number of unique instance is calculated: 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 7 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Total number of Instancee is calculated: 4
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Number of unique instance is calculated: 4
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Average time is calculated : 3.12783525E8
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 8 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 9 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Average time is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printusermetrics
+INFO: user id: 10 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:30 PM Print printInstanceMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Completeness percentage is calculated : 91.66666666666666
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Unique instance for each label is calculated
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Number of user is calculated : 3
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness percentage is calculated 
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness consistency is calculated 
+Oca 02, 2021 6:25:31 PM Print printDatasetMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Average time is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 1 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Average time is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 2 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Total number of Instancee is calculated: 19
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Number of unique instance is calculated: 16
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Average time is calculated : 994189.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 3 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Average time is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 4 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Total number of Instancee is calculated: 20
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Number of unique instance is calculated: 14
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Consistency percentage is calculated: 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Average time is calculated : 1120755.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 5 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Total number of Instancee is calculated: 24
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Number of unique instance is calculated: 19
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Average time is calculated : 837100.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 6 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Total number of Instancee is calculated: 2
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Number of unique instance is calculated: 2
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Average time is calculated : 8.041626E8
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 7 Standart deviation is calculated : 8.041626E8
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Total number of Instancee is calculated: 4
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Number of unique instance is calculated: 4
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Average time is calculated : 3.12783525E8
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 8 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Average time is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 9 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Average time is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printusermetrics
+INFO: user id: 10 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:31 PM Print printInstanceMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Completeness percentage is calculated : 91.66666666666666
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Unique instance for each label is calculated
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Number of user is calculated : 3
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness percentage is calculated 
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness consistency is calculated 
+Oca 02, 2021 6:25:32 PM Print printDatasetMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Average time is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 1 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Average time is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 2 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Total number of Instancee is calculated: 19
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Number of unique instance is calculated: 16
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Average time is calculated : 994189.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 3 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Average time is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 4 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Total number of Instancee is calculated: 20
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Number of unique instance is calculated: 14
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Consistency percentage is calculated: 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Average time is calculated : 1120755.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 5 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Total number of Instancee is calculated: 24
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Number of unique instance is calculated: 19
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Average time is calculated : 837100.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 6 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Total number of Instancee is calculated: 3
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Number of unique instance is calculated: 3
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Average time is calculated : 3.00392033E8
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 7 Standart deviation is calculated : 4.248184878045331E8
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Total number of Instancee is calculated: 4
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Number of unique instance is calculated: 4
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Average time is calculated : 3.12783525E8
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 8 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Average time is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 9 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Average time is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printusermetrics
+INFO: user id: 10 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:32 PM Print printInstanceMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Completeness percentage is calculated : 91.66666666666666
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Class distribution is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Unique instance for each label is calculated
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Number of user is calculated : 3
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness percentage is calculated 
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: dataset id: 2 Users assigned and their completeness consistency is calculated 
+Oca 02, 2021 6:25:33 PM Print printDatasetMetrics
+INFO: Instancee metrics is written sucesfully.
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Average time is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 1 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Average time is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 2 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Total number of Instancee is calculated: 19
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Number of unique instance is calculated: 16
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Average time is calculated : 994189.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 3 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Average time is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 4 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Total number of Instancee is calculated: 20
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Number of unique instance is calculated: 14
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Consistency percentage is calculated: 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Average time is calculated : 1120755.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 5 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Total number of Instancee is calculated: 24
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Number of unique instance is calculated: 19
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Average time is calculated : 837100.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 6 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Total number of Instancee is calculated: 4
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Number of unique instance is calculated: 4
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Average time is calculated : 2.5345455E8
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 7 Standart deviation is calculated : 4.389961580095064E8
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Number of dataset is calculated : 1
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Total number of Instancee is calculated: 4
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Number of unique instance is calculated: 4
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Average time is calculated : 3.12783525E8
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 8 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Average time is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 9 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Number of dataset is calculated : 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Total number of Instancee is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Number of unique instance is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Consistency percentage is calculated: 0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Average time is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printusermetrics
+INFO: user id: 10 Standart deviation is calculated : 0.0
+Oca 02, 2021 6:25:33 PM Print printInstanceMetrics
+INFO: Instancee metrics is written sucesfully.
